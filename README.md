@@ -1,53 +1,238 @@
-# Hi, I'm Etinyene Ekanem 
-I'm a Computer Science postgraduate with an MSc in
-Computer Science (CGPA: 4.5/5.0) and a BSc in
-Electronics and Computer Technology.
+# Etinyene Ekanem — Data and Technology Portfolio
+Welcome to my technology portfolio.
 
-I'm building my career in technology with a focus on:
+I am a Computer Science postgraduate with an MSc in
+Computer Science from the University of Port Harcourt
+(CGPA: 4.5/5.0) and a BSc in Electronics and Computer
+Technology from the University of Calabar.
 
-• Data Analytics
-
-• Data Science and Machine Learning
-
-• Business Intelligence
-
-• Cybersecurity
+I am developing my professional career in Data
+Analytics, Data Science, Business Intelligence, and
+Cybersecurity, combining academic training with hands
+on projects and professional certifications.
 
 ## Technical Skills
-**Programming & Data:** Python, SQL, Pandas, NumPy, Excel
-
-**Data Visualization:** Matplotlib, Seaborn, Plotly
-
-**Business Intelligence:** Power BI, Tableau, IBM Cognos
-
-**Cybersecurity:** Linux, Wireshark, phishing analysis, incident response, digital forensics, penetration testing fundamentals
-
-**Tools:** Jupyter Notebook, Dash, GitHub
+| **Area** | **Technologies** | 
+| -------- | -------- | 
+|Programming   | Python, SQL | 
+|Data Analysis  | Pandas, NumPy, Excel, SQLite|
+|Data Visualization  | Matplotlib, Seaborn, Plotly |
+|Business Intelligence  | Power BI, Tableau, IBM Cognos |
+|Machine Learning | Predictive Analysis, Classification|
+|Dashboards  | Power BI, Tableau, Dash
+|Cybersecurity | Linux, Wireshark |
+| Development | Jupyter Notebook, GitHub|
 
 ## Featured Projects
+## 1. SpaceX Data Analysis
+**Tools:** Python, Pandas, Jupyter Notebook, API
 
-🔹 SpaceX Data Analysis and Visualization
+Collected and prepared SpaceX launch data using an API
+and performed data preparation and analysis.
 
-🔹SpaceX Interactive Dashboard
+**Skills demonstrated:**
 
-🔹SpaceX Machine Learning Prediction
+• API data collection
 
-🔹SQL Exploratory Data Analysis
+• Data preparation
 
-🔹Australia Weather Data Analysis
+• Data wrangling
 
-🔹 IBM Data Analyst Capstone
+• Python
 
-🔹IBM Applied Data Science Capstone
+• Pandas
 
-🔹IBM Cybersecurity Analyst Case Studies and Capstone
+• Exploratory analysis
 
-I'm interested in opportunities where I can use data,
-technology, and analytical problem solving to solve real
-world problems and generate useful insights.
+View Project
 
- 📍Port Harcourt, Nigeria
- 
- 📫 Email: [Your Email]
- 
-🔗LinkedIn: [Your LinkedIn URL
+## 2. SpaceX Interactive Dashboard
+
+**Tools:** Python, Pandas, Dash, Plotly
+
+Developed an interactive dashboard for analyzing
+SpaceX launch records.
+
+The dashboard includes:
+
+• Launch-site filtering
+
+• Launch success visualization
+
+• Payload-range filtering
+
+• Interactive scatter visualization
+
+• Payload mass analysis
+
+**Skills demonstrated:**
+
+• Dashboard development
+
+• Interactive visualization
+
+• Python
+
+• Dash
+
+• Plotly
+
+• Pandas
+
+View Project
+
+## 3. SpaceX Machine Learning Prediction
+
+**Tools:** Python, Pandas, Jupyter Notebook, Machine Learning
+
+Prepared SpaceX launch data and applied machine-learning prediction techniques to analyze launch outcomes.
+
+**Skills demonstrated:**
+
+• Data preparation
+
+• Exploratory data analysis
+
+• Machine learning
+
+• Predictive analysis
+
+• Python
+
+View Project
+
+## 4. SQL Exploratory Data Analysis
+
+**Tools:** SQL, SQLite
+
+Used SQL/SQLite to query and explore structured datasets.
+
+**Skills demonstrated:**
+
+• SQL
+
+• Data querying
+
+• Data exploration
+
+• Aggregation
+
+• Analytical problem solving
+
+View Project
+
+## 5. Australia Weather Data Analysis
+
+**Tools:** Python, Jupyter Notebook
+
+Performed exploratory analysis of Australian weather data using Python and notebook-based
+analytical workflows.
+
+**Skills demonstrated:**
+
+• Data analysis
+
+• Exploratory data analysis
+
+• Python
+
+• Data visualization
+
+View Project
+
+## 6. IBM Data Analyst Capstone
+
+**Tools:** Python, Data Analysis, Visualization, Dashboard
+
+Completed an end-to-end data analytics project involving:
+
+• Data collection
+
+• Data cleaning
+
+• Data wrangling
+
+• Exploratory data analysis
+
+• Data visualization
+
+• Dashboard development
+
+• Presentation of findings
+
+View Project
+
+## 7. IBM Applied Data Science Capstone
+
+**Tools:** Python, Data Analysis, Visualization, Machine Learning
+
+Completed an applied data science project involving:
+
+• Exploratory data analysis
+
+• Interactive visual analytics
+
+• Dashboard development
+
+• Predictive analysis
+
+• Classification
+
+• Presentation of data-driven insights
+
+View Project
+
+## 8. IBM Cybersecurity Analyst Case Studies and Capstone
+
+Analyzed cybersecurity scenarios involving:
+
+• Phishing
+
+• Point-of-sale breaches
+
+• Insider threats
+
+• AI-related breaches
+
+• Ransomware
+
+• Incident response
+
+• Digital forensics
+
+• Penetration testing
+
+• Cybersecurity compliance
+
+View Project
+
+## Certifications
+
+• IBM Data Analyst Professional Certificate — 2025
+
+• IBM Data Science Professional Certificate — 2025
+
+• IBM Cybersecurity Analyst Professional Certificate — 2025–2026
+
+## Education
+
+**MSc Computer Science**
+
+University of Port Harcourt — 2018
+CGPA: 4.5/5.0
+
+**BSc Electronics and Computer Technology**
+
+University of Calabar — 2012
+
+**Technical College — Radio, Television and Electronics**
+
+Federal Science and Technical College, Uyo — 2006
+
+## Connect With Me
+
+LinkedIn: [Your LinkedIn URL
+
+Email: [Your Email]
+
+Location: Port Harcourt, Nigeria
